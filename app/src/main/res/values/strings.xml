@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">DataBaseSql</string>
+=======
+    <string name="app_name">suiteThirdApp</string>
+>>>>>>> 0a58523587e1fc0ff0cdadb7d117fb334b421fac
 </resources>

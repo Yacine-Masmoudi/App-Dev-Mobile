@@ -3,11 +3,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.databasesql"
     compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.databasesql"
+=======
+    namespace = "com.example.suitethirdapp"
+    compileSdk = 34
+
+    defaultConfig {
+        applicationId = "com.example.suitethirdapp"
+>>>>>>> 0a58523587e1fc0ff0cdadb7d117fb334b421fac
         minSdk = 24
         targetSdk = 34
         versionCode = 1
